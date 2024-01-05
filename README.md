@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, Linux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adedamola26?tab=repositories](https://github.com/adedamola26?tab=repositories)
+- 👨‍💻 All of my projects are available in  [my GitHub repositories page](https://github.com/adedamola26?tab=repositories).
 
 - 💬 Ask me about **Python, SQL**
 

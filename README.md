@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adedamola Adesoye.</h1>
 <h3 align="center">MS Information Systems student on a data engineering career path</h3>
 
-- 🔭 I’m currently working on a [Flask application](https://github.com/adedamola26/my_first_flask_app)
+- 🔭 I’m currently working on a web scraping project.
 
-- 🌱 I’m currently learning **Flask, Linux**
+- 🌱 I’m currently learning **Airflow**
 
 - 👨‍💻 All of my projects are available in  [my GitHub repositories page](https://github.com/adedamola26?tab=repositories).
 

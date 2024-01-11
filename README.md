@@ -1,5 +1,5 @@
 ## About Me
-I am a _data engineer_ and a second-year Information Systems _graduate student_ at Northeaster University, Toronto.
+I am a _data engineer_ and a second-year Information Systems _graduate student_ at Northeastern University, Toronto.
 
 ## Tool Expertise
 - Python + [NumPy, pandas, matplotlib, seaborn, scikit-learn, bs4, selenium]

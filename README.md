@@ -20,7 +20,7 @@ Created four datasets (normalized to 3NF) based on a Spotify playlist containing
 
 Applied relational database design concepts in developing a CRM database for a banking system
 
-[Prediction of Churning Credit Card Customers](https://github.com/adedamola26/prediction-of-churning-customers)
+[Prediction of Churning Credit Card Customers](https://github.com/adedamola26/prediction-of-churning-customers) (Group)
 
 ML Project to investigate the performance of Decision Tree, Random Forest, and XGBoost algorithms for predicting customer churn in a credit card dataset.
 

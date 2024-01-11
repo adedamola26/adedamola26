@@ -1,20 +1,43 @@
-<h1 align="center">Hi 👋, I'm Adedamola Adesoye.</h1>
-<h3 align="center">MS Information Systems student on a data engineering career path</h3>
+## About Me
+I am a _data engineer_ and a 2nd year Information Systems _graduate student_ at Northeaster University, Toronto.
 
-- 🔭 I’m currently working on a web scraping project.
+## Tool Expertise
+- Python + [numpy, pandas, matplotlib, seaborn, scikit-learn, bs4, selenium]
+- SQL + [PostgreSQL, Oracle]
+- AWS + [Lambda, CloudWatch, S3, Athena, Glue]
+- Git
+## Currently Learning
+Apache, Docker, PyTorch
 
-- 🌱 I’m currently learning **Airflow**
+## My Projects
+[ETL Pipeline For Creating Four 3NF Datasets Using Spotify API and AWS](https://github.com/adedamola26/spotify-api)
 
-- 👨‍💻 All of my projects are available in  [my GitHub repositories page](https://github.com/adedamola26?tab=repositories).
+Created four datasets (normalized to 3NF) based on a Spotify playlist containing the top 100 most streamed tracks.
 
-- 💬 Ask me about **Python, SQL**
+[Next Generation Customer Relationship Management (CRM) Database For Banking System](https://github.com/adedamola26/crm-database-for-banking-system) (Group)
 
-- 📫 How to reach me **adesoye.a@northeastern.edu**
+Applied relational database design concepts in developing a CRM database for a banking system
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adedamolade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adedamolade" height="30" width="40" /></a>
-</p>
+[Exploration of Five Unsupervised Learning Algorithms](https://github.com/adedamola26/unsupervised-learning-algo-experiments)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+Performed multiple experiments with k-means, Gaussian Mixture Models, PCA, ICA, and UMAP on two datasets
+
+[A Supervised Machine Learning Approach to Credit Card Fraud Detection](https://github.com/adedamola26/creditCardFraudDetectionSystem)
+
+Developed fraud detection models using Decision Tree and K-Nearest Neighbors (KNN) algorithms + a dataset containing 284,807 instances with 0.17% true positives
+
+[Exploration of Five of the Most Used Supervised Learning Algorithms](https://github.com/adedamola26/supervised-learning-algo-experiments)
+
+Investigated the performance of five cmmonly used supervised learning algorithms on two distinct datasets; the algorithms were: Decision Tree, K-Nearest Neighbors, Support Vector Machines, Neural Networks, and XGBoost
+
+[What books interest the masses?](https://github.com/adedamola26/web-scraping-and-data-analysis-projects-at-Hamoye/blob/main/What%20books%20interest%20the%20masses.ipynb)
+
+Scraped data from Amazon and Goodreads using Beautiful Soup to investigate popular book interests
+
+[Best Data Science Online Course](https://github.com/adedamola26/web-scraping-and-data-analysis-projects-at-Hamoye/blob/main/Best%20Data%20Science%20Online%20Course.ipynb)
+
+Scraped information on online data science courses from Class Central using Selenium with Beautiful Soup
+
+[Finding similar neighborhoods for a thriving restaurant](https://adedamolade.medium.com/finding-similar-neighbourhoods-for-a-thriving-restaurant-f54353467ab4)
+
+Worked on a hypothetical business problem where a restaurant in Lagos, Nigeria was looking to open a new branch in a different location with a similar neighborhood (Assuming the characteristics of the neighbourhood of its current restaurant was key to its success)

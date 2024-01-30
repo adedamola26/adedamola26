@@ -12,6 +12,9 @@ I am a _data engineer_ and a second-year Information Systems _graduate student_ 
 Apache, Docker, PyTorch
 
 ## My Projects
+[Web Scraper For Extracting English Premier League Football Players’ Data](https://github.com/adedamola26/web-scraping-project) [January 2024]
+Scraped data about all 20 English Premier League teams' players
+
 [ETL Pipeline For Creating Four 3NF Datasets Using Spotify API and AWS](https://github.com/adedamola26/spotify-api) [January 2024]
 
 Created four datasets (normalized to 3NF) based on a Spotify playlist containing the top 100 most streamed tracks.

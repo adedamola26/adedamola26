@@ -13,6 +13,7 @@ Apache, Docker, PyTorch
 
 ## My Projects
 [Web Scraper For Extracting English Premier League Football Players’ Data](https://github.com/adedamola26/web-scraping-project) [January 2024]
+
 Scraped data about all 20 English Premier League teams' players
 
 [ETL Pipeline For Creating Four 3NF Datasets Using Spotify API and AWS](https://github.com/adedamola26/spotify-api) [January 2024]

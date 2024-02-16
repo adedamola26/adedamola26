@@ -8,8 +8,6 @@ I am a _data engineer_ and a second-year Information Systems _graduate student_ 
 - Supervised ML algorithms + [Decision Tree, K-Nearest Neighbors, Support Vector Machines, Neural Networks, and XGBoost]
 - Unsupervised ML algorithms + [k-means, Gaussian Mixture Models, PCA, ICA, and UMAP]
 - Git, Airflow, Docker
-## Currently Learning
-PyTorch
 
 ## My Projects
 [Web Scraper For Extracting English Premier League Football Players’ Data](https://github.com/adedamola26/web-scraping-project) [January 2024]

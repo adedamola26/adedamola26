@@ -3,7 +3,8 @@ I am a _data engineer_ and a second-year Information Systems _graduate student_ 
 
 ## Core Competencies
 - Python + [NumPy, pandas, matplotlib, seaborn, scikit-learn, bs4, selenium]
-- SQL + [PostgreSQL, Oracle]
+- SQL + [PostgreSQL, Oracle], PL/SQL
+- NoSQL + [MongoDB]
 - AWS + [Lambda, CloudWatch, S3, Athena, Glue]
 - Supervised ML algorithms + [Decision Tree, K-Nearest Neighbors, Support Vector Machines, Neural Networks, and XGBoost]
 - Unsupervised ML algorithms + [k-means, Gaussian Mixture Models, PCA, ICA, and UMAP]

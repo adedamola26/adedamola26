@@ -1,16 +1,20 @@
 ## About Me
-I am a _data engineer_ and a second-year Information Systems _graduate student_ at Northeastern University, Toronto.
+I am an Information Systems (data science concentration) graduate student at Northeastern University, Toronto. I enjoy working with data, building data pipelines, and writing code. I possess hands-on experience in building and evaluating classification and regression models.
 
 ## Core Competencies
-- Python + [NumPy, pandas, matplotlib, seaborn, scikit-learn, bs4, selenium]
-- SQL + [PostgreSQL, Oracle], PL/SQL
-- NoSQL + [MongoDB]
-- AWS + [Lambda, CloudWatch, S3, Athena, Glue]
-- Supervised ML algorithms + [Decision Tree, K-Nearest Neighbors, Support Vector Machines, Neural Networks, and XGBoost]
-- Unsupervised ML algorithms + [k-means, Gaussian Mixture Models, PCA, ICA, and UMAP]
-- Git, Airflow, Docker
+- Python, SQL (PostgreSQL, Oracle), NoSQL(MongoDB)
+- AWS (Lambda, S3), GCP (Google Cloud Storage, BigQuery)
+- Airflow, Docker, dbt
+- Relational Database Design (with Data Normalization), Dimensional Modeling, Web Scraping
+- Training and Evaluating Machine Learning Models (with Linear Regression, Logistic Regression, Random Forest, Decision Tree, XGBoost, precision, recall, f1-score, accuracy) 
+- Git, GitHub
+- Jupyter Notebook, VSCode
 
 ## My Projects
+[End-to-End Data Pipeline For An E-rerail Company's Customer Transaction Dataset](https://github.com/adedamola26/data-pipeline-4-online-retail) [February 2024]
+
+Engineered a data pipeline (using Airflow) that extracts data from Kaggle and prepares it, at the end of the pipeline, for creating a dashboard.
+
 [Web Scraper For Extracting English Premier League Football Players’ Data](https://github.com/adedamola26/web-scraping-project) [January 2024]
 
 Scraped data about all 20 English Premier League teams' players

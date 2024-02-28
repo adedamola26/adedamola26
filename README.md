@@ -2,13 +2,13 @@
 I am an Information Systems (data science conc.) graduate student at Northeastern University, Toronto. I enjoy working with data, writing code and engineering pipelines. 
 
 ## Technical Skills
-Languages: Python, SQL, PL/SQL, Bash, NoSQL 
+**Languages**: Python, SQL, PL/SQL, Bash, NoSQL 
 
-Database Management: Database Normalization, Dimensional Modeling, Oracle, PostgreSQL
+**Database Management**: Database Normalization, Dimensional Modeling, Oracle, PostgreSQL
 
-Cloud: AWS (Lambda, S3, CloudWatch), Google Cloud Platform (Cloud Storage, BigQuery) 
+**Cloud**: AWS (Lambda, S3, CloudWatch), Google Cloud Platform (Cloud Storage, BigQuery) 
 
-Miscellaneous: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook, Visual Studio Code
+**Miscellaneous**: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook, Visual Studio Code
 
 ## My Projects
 [End-to-End Data Pipeline For An E-rerail Company's Customer Transaction Dataset](https://github.com/adedamola26/data-pipeline-4-online-retail?tab=readme-ov-file#result) [February 2024]
@@ -25,9 +25,9 @@ Designed and implemented four datasets, ensuring normalization up to the third n
 
 [Prediction of Churning Credit Card Customers](https://github.com/adedamola26/prediction-of-churning-customers/blob/main/notebook.ipynb) [Group Project, April 2023]
 
-ML Project to investigate the performance of Decision Tree, Random Forest, and XGBoost algorithms for predicting customer churn in a credit card dataset.
+Responsible for training and evaluating Decision Tree, Random Forest, and XGBoost-based models for predicting customer churn in a credit card dataset.
 
 [A Supervised Machine Learning Approach to Credit Card Fraud Detection](https://github.com/adedamola26/creditCardFraudDetectionSystem/blob/main/creditCardFraud.ipynb) [March 2023]
 
-Developed fraud detection models using Decision Tree and K-Nearest Neighbors (KNN) algorithms + a dataset containing 284,807 instances with 0.17% true positives
+Trained and evaluated fraud detection models using Decision Tree and K-Nearest Neighbors (KNN) algorithms + a dataset containing 284,807 instances with 0.17% true positives
 

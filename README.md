@@ -1,4 +1,4 @@
-## About Me
+## Bio
 I am an Information Systems (data science conc.) graduate student at Northeastern University, Toronto. I enjoy working with data, writing code and engineering pipelines. 
 
 ## Technical Skills
@@ -10,7 +10,7 @@ I am an Information Systems (data science conc.) graduate student at Northeaster
 
 **Miscellaneous**: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook, Visual Studio Code
 
-## My Projects
+## Projects
 [End-to-End Data Pipeline For An E-rerail Company's Customer Transaction Dataset](https://github.com/adedamola26/data-pipeline-4-online-retail?tab=readme-ov-file#result) [February 2024]
 
 Implemented an Airflow-based data pipeline, leveraging a REST API for data extraction and preparation, with the ultimate goal of generating reports tailored for a dashboard

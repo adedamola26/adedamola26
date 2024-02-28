@@ -3,9 +3,12 @@ I am an Information Systems (data science conc.) graduate student at Northeaster
 
 ## Technical Skills
 Languages: Python, SQL, PL/SQL, Bash, NoSQL 
+
 Database Management: Database Normalization, Dimensional Modeling, Oracle, PostgreSQL
+
 Cloud: AWS (Lambda, S3, CloudWatch), Google Cloud Platform (Cloud Storage, BigQuery) 
-Miscellaneous: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn
+
+Miscellaneous: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook, Visual Studio Code
 
 ## My Projects
 [End-to-End Data Pipeline For An E-rerail Company's Customer Transaction Dataset](https://github.com/adedamola26/data-pipeline-4-online-retail?tab=readme-ov-file#result) [February 2024]

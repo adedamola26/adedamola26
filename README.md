@@ -1,12 +1,12 @@
 ## Bio
-I am an Information Systems (data science conc.) graduate student at Northeastern University, Toronto. I enjoy working with data, writing code and engineering pipelines. 
+I am an Information Systems (data science concentration) graduate student at Northeastern University, Toronto. I enjoy working with data, writing code and engineering pipelines. 
 
 ## Technical Skills
 **Languages**: Python, SQL, PL/SQL, Bash, NoSQL 
 
 **Database Management**: Database Normalization, Dimensional Modeling, Oracle, PostgreSQL
 
-**Cloud**: AWS (Lambda, S3, CloudWatch), Google Cloud Platform (Cloud Storage, BigQuery) 
+**Cloud**: Amazon Web Services (Lambda, S3, CloudWatch), Google Cloud Platform (Cloud Storage, BigQuery) 
 
 **Miscellaneous**: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook, Visual Studio Code
 

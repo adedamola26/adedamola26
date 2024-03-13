@@ -8,7 +8,7 @@ I am an Information Systems (data science concentration) graduate student at Nor
 
 **Cloud**: Amazon Web Services (Lambda, S3, CloudWatch), Google Cloud Platform (Cloud Storage, BigQuery) 
 
-**Miscellaneous**: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook, Visual Studio Code
+**Other technologies**: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook, Visual Studio Code, Linux (Ubuntu)
 
 ## Projects
 [Linux Calculator](https://github.com/adedamola26/linux-projects/tree/main/calculator) [March 2024]

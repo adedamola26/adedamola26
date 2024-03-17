@@ -11,10 +11,6 @@ I am an Information Systems (data science concentration) graduate student at Nor
 **Other technologies**: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook, Visual Studio Code, Linux (Ubuntu)
 
 ## Projects
-[Linux Calculator](https://github.com/adedamola26/linux-projects/tree/main/calculator) [March 2024]
-
-Developed a bash script that performs arithmetic operations on two numeric user-inputs, all while validating each input before moving to the next task.
-
 [End-to-End Data Pipeline For An E-rerail Company's Customer Transaction Dataset](https://github.com/adedamola26/data-pipeline-4-online-retail?tab=readme-ov-file#result) [February 2024]
 
 Implemented an Airflow-based data pipeline, leveraging a REST API for data extraction and preparation, with the ultimate goal of generating reports tailored for a dashboard

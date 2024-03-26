@@ -1,14 +1,5 @@
 ## Bio
-I am an Information Systems (data science concentration) graduate student at Northeastern University, Toronto. I enjoy working with data, writing code and engineering pipelines. 
-
-## Technical Skills
-**Languages**: Python, SQL, PL/SQL, Bash, NoSQL 
-
-**Database Management**: Database Normalization, Dimensional Modeling, Oracle, PostgreSQL
-
-**Cloud**: Amazon Web Services (Lambda, S3, CloudWatch), Google Cloud Platform (Cloud Storage, BigQuery) 
-
-**Other technologies**: Airflow, dbt, Soda, Astro CLI, Docker, scikit-learn, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook, Visual Studio Code, Linux (Ubuntu)
+I enjoy working with data. My passion for solving problems feeds into my passion for learning new things to get the job done. 
 
 ## Projects
 [End-to-End Data Pipeline For An E-rerail Company's Customer Transaction Dataset](https://github.com/adedamola26/data-pipeline-4-online-retail?tab=readme-ov-file#result) [February 2024]

@@ -2,6 +2,9 @@
 I enjoy working with data. My passion for solving problems feeds into my passion for learning new things to get the job done. 
 
 ## Projects
+[Text Summarization With Pre-Trained BART Model](https://github.com/adedamola26/text-summarization/blob/main/Text_Summarization_with_BART.ipynb) [Ongoing]
+Fine-tuned BART model on a dialogue dataset to optimize text summarization performance using a Tesla V100-SXM2-16GB GPU [Demo](https://huggingface.co/spaces/adedamola26/text-summ)
+
 [End-to-End Data Pipeline For An E-rerail Company's Customer Transaction Dataset](https://github.com/adedamola26/data-pipeline-4-online-retail?tab=readme-ov-file#result) [February 2024]
 
 Implemented an Airflow-based data pipeline, leveraging a REST API for data extraction and preparation, with the ultimate goal of generating reports tailored for a dashboard

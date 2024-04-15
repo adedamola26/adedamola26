@@ -1,7 +1,7 @@
 ## Bio
 I enjoy working with data. My passion for solving problems feeds into my passion for learning new things to get the job done. 
 
-## Projects
+## Selected Projects
 [Text Summarization With Pre-Trained BART Model](https://github.com/adedamola26/text-summarization/blob/main/Text_Summarization_with_BART.ipynb) [Ongoing]
 
 Fine-tuned BART model on a dialogue dataset to optimize text summarization performance using a Tesla V100-SXM2-16GB GPU [See Demo](https://huggingface.co/spaces/adedamola26/text-summ)
